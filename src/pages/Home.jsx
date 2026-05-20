@@ -14,12 +14,12 @@ function Home({ moto }) {
   const [openUser, setOpenUser] = useState(null)
 
   const profiles = [
-    { id: 1, id_name: "the_python_king3", post: "./post.png.jpeg", profilePhoto: "./my.png", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
-    { id: 2, id_name: "mr_hacker", post: "./post2.png", profilePhoto: "./post.png.jpeg", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
-    { id: 3, id_name: "the_python_king3", post: "./post.png.jpeg", profilePhoto: "./my.png", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
-    { id: 4, id_name: "mr_hacker", post: "./post2.png", profilePhoto: "./post.png.jpeg", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
-     { id: 5, id_name: "Ranshi_9090", post: "./ITI.png", profilePhoto: "./ph5.jpg", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
-      { id: 6, id_name: "mr_hacker", post: "./Cph1.jpg", profilePhoto: "./post.png.jpeg", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> }
+    { id: 1, id_name: "the_python_king3", post: "/post.png.jpeg", profilePhoto: "/my.png", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
+    { id: 2, id_name: "mr_hacker", post: "/post2.png", profilePhoto: "/post.png.jpeg", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
+    { id: 3, id_name: "the_python_king3", post: "/post.png.jpeg", profilePhoto: "/my.png", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
+    { id: 4, id_name: "mr_hacker", post: "/post2.png", profilePhoto: "/post.png.jpeg", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
+     { id: 5, id_name: "Ranshi_9090", post: "/ITI.png", profilePhoto: "/ph5.jpg", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> },
+      { id: 6, id_name: "mr_hacker", post: "/Cph1.jpg", profilePhoto: "/post.png.jpeg", islikeIcon: <AiFillLike />, noLike: <GrLike />, shere: <IoIosSend />, save: <MdOutlineSaveAlt /> }
 
 
 
