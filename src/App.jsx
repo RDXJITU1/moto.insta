@@ -37,7 +37,8 @@ const user = [
   return (
     <>
   <Routes>
-          <Route path="/login" element={<Login/>}/>
+          <Route path="/" element={<Login/>}/>
+          {/* <Route path="/login" element={<Login/>}/> */}
           <Route path="/home" element={<Home moto={user} />}/>
           <Route path="/tool" element={<Tool moto={user} />}/>
           <Route path ="/profile" element = {<Profile/>}/>
