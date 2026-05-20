@@ -11,7 +11,7 @@ import { FaHeart } from "react-icons/fa";
 
 
 import './Setting.css'
-import Profile from "./pages/Profile"
+import Profile from "./Profile";
 
 function Setting({ insta }) {
    const [like, setLike] = useState(false)
