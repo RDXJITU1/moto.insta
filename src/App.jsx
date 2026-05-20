@@ -1,7 +1,7 @@
 import Home from "./pages/Home"
 import Login from "./pages/Login"
 import Tool from "./pages/Tool"
-import Profile from ",/pages/Profile"
+import Profile from "./pages/Profile"
 import ViewTab from "./pages/ViewTab"
 import {Routes,Route} from 'react-router-dom'
 function App() {
