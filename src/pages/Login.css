@@ -1,0 +1,25 @@
+.login-first{
+    background-image: url(bg.png);
+    background-size: cover ;
+    object-fit:unset;
+    
+}
+
+.login{
+    opacity: 5px;
+    border: 2px solid green;
+    background-color: rgba(8, 8, 8, 0.8);
+
+}
+
+@media (max-width:400px) {
+    .login{
+      width: 250px;
+      height: auto;
+    }
+   
+
+    
+}
+
+
